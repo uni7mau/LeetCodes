@@ -1,0 +1,4 @@
+#Ignore some useless file
+
+**/.vscode/
+**/main.exe/
