@@ -11,9 +11,9 @@ B5: Push lên Github <br />
 ???
 
 # :seedling: Các giá trị hỗ trợ
-int: -+2^9
-long: không nên dùng thì hơn
-long long: -+2^63
+int: -+2^9 <br />
+long: không nên dùng thì hơn <br />
+long long: -+2^63 <br />
 
 
 
