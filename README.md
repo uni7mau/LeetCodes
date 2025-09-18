@@ -1,3 +1,5 @@
+CON ĐƯỜNG NÀY SẼ DẪN TA ĐẾN ĐÂU ĐÓ
+
 Quy trình làm bài:
 B1: Tạo folder con trong problems, trong folder đó tạo file main.cpp
 B2: Copy phần template sang file main.cpp vừa tạo
@@ -10,5 +12,5 @@ Quy trình pull bài làm:
 
 Các giá trị hỗ trợ
     - int: -+2^9
-    - long: không nên dùng dùng thì hơn
+    - long: không nên dùng thì hơn
     - long long: -+2^63
