@@ -7,9 +7,6 @@ B3: Làm bài, input output tự quản lý tùy trường hợp của đề <br
 B4: Dán phần class vào leetcode rồi test, submit <br />
 B5: Push lên Github
 
-# :cactus: Quy trình pull bài làm:
-???
-
 # :seedling: Các giá trị hỗ trợ
 int: -+2^9 <br />
 long: không nên dùng thì hơn <br />
