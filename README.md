@@ -1,4 +1,4 @@
-CON ĐƯỜNG NÀY SẼ DẪN TA ĐẾN ĐÂU ĐÓ
+THIS ROAD WILL LEAD ME SOMEWHERE
 
 Quy trình làm bài:
 B1: Tạo folder con trong problems, trong folder đó tạo file main.cpp
