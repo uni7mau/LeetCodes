@@ -1,10 +1,10 @@
 **_THIS ROAD WILL LEAD ME SOMEWHERE_**
 
 # :cactus: Lưu ý:
-Phần hoạt động cuối cùng là phần không bị comment
-Nếu có ghi Cách a, Cách b thì cách làm đó đã commit thành công rồi
-Phần giải thích cuối cùng là phần cuối cùng của phần giải thích
-Nếu có ghi "Cách trên không hoạt động..." thì là nháp
+Phần hoạt động cuối cùng là phần không bị comment <br />
+Nếu có ghi Cách a, Cách b thì cách làm đó đã commit thành công rồi <br />
+Phần giải thích cuối cùng là phần cuối cùng của phần giải thích <br />
+Nếu có ghi "Cách trên không hoạt động..." thì là nháp <br />
 
 # :cactus: Quy trình làm bài:
 B1: Tạo folder con trong problems, trong folder đó tạo file main.cpp <br />
