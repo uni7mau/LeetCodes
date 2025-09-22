@@ -14,9 +14,9 @@ B4: Dán phần class vào leetcode rồi test, submit <br />
 B5: Push lên Github
 
 # :seedling: Các giá trị hỗ trợ:
-int: -+2^9 <br />
+int: –2^31 → 2^31 – 1 /        /  ~ –2.1×10^9 → 2.1×10^9 <br />
 long: không nên dùng thì hơn <br />
-long long: -+2^63
+long long: –2^63 → 2^63 – 1 /        / ~ –9.2×10^18 → 9.2×10^18
 
 # Thông báo:
 Thay đổi template từ day 3: thêm phần struct trên class solution
