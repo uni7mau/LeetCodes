@@ -5,8 +5,7 @@ from typing import List
 # Viết code ở đây
 class Solution:
     def functionName(self, params):
-        return result
-
+        return
 
 # ==========================
 # Test local
