@@ -1,5 +1,4 @@
-#include <vector>
-#include <stack>
+#include <bits/stdc++.h>
 #define Shelter main
 using namespace std;
 
