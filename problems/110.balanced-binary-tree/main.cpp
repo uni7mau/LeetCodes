@@ -23,14 +23,12 @@ public:
         int right = dfs(root->right);
 
         if (left == -1 || right == -1) return -1;
-        if (abs(left - right) > 0) return -1;
+        if (abs(left - right) > 1) return -1;
 
         return max(left, right) + 1;
     }
 
     bool isBalanced(TreeNode* root) {
-        if (!root) return true;
-
         return dfs(root) != -1;
     }
 };
