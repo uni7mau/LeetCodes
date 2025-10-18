@@ -26,7 +26,7 @@ private:
     }
 public:
     int sumOfLeftLeaves(TreeNode* root) {
-        dfs(root, false);
+        return dfs(root, false);
     }
 };
 // ------------------------------------------------------------
