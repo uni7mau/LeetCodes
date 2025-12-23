@@ -20,7 +20,12 @@ public:
                 res.push_back("Fizz");
             } else {
                 string curr = "";
-                curr += '0' + i;
+                int currN = i;
+                while (currN != 0) {
+                    curr += '0' + (currN % 10);
+                    currN /= 10;
+                }
+                reverse(curr.begin(), curr.end());
                 res.push_back(curr);
             }
         }
